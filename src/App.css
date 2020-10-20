@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace !important;
+}
+.custom_navbar {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+.heading_1{
+  font-weight: bold;
+  font-size: 40px !important;
+}
+.heading_2{
+  color: orange;
+  text-transform: uppercase;
+}
+
+.links{
+  color: white !important;
+  font-size: 18px;
+  transition: all .6s;
+}
+
+.links:hover{
+  color: orange !important;
+  background-color: white;
+  border-radius: 5px 5px;
+}
+.add_post{
+  margin-top: 120px;
+}
+.post{
+  box-shadow: 4px 8px 5px #6d6868;
+  padding: 40px 20px;
+  margin: 10px 20px;
+}
+.posts{
+  box-shadow: 4px 2px 5px gray;
+}
+.login_main{
+  margin-top: 100px;
+}
+.not_logged_in{
+  margin-top: 120px;
+}
