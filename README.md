@@ -1,4 +1,4 @@
-# B-log App
+# B-logs App
 
 ## Demo : https://b-logs.web.app/
 
